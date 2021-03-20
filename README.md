@@ -1,1 +1,1 @@
-# spaceneb-domain-verification
+# Domain Verification for [SpaceNeb](https://spaceneb.page)
